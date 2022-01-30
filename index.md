@@ -21,6 +21,6 @@ The project directory should now contain the following:
 ```
 
 
-* [Building GPlugin]("Building GPlugin.md")
-* [Project sys crate setup]("Project sys crate setup.md")
-* [Binary crate]("Binary crate.md")
+* [Building GPlugin](building-gplugin.md)
+* [Project sys crate setup](sys-crate.md)
+* [Binary crate](binary-crate.md)
